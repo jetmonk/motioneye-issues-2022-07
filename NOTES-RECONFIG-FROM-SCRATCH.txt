@@ -86,6 +86,6 @@ End result:
 * I have the feeling there there's some fragility with respect to the order of operations,
   including first camera relative to subsequent cameras.
 
-
-
-
+* EDIT - and Drive uploads seem to have broken again for RPi3 in the process of trying to \
+  turn on motion activation.  Neither snapshots nor motion activated images make it to Drive.
+  But when I turn off motion activation, then manual snaps make to Drive again!
