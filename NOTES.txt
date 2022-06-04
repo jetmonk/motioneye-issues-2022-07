@@ -1,19 +1,20 @@
 
 
-In the norming, both internal  PI3 camera and external Arecont camera
+In the morning, both internal  PI3 camera and external Arecont camera
 were blanked out (camera-slash picture, but distorted).
 
 Changing resolution of RPi camera within MotionEye brought them both to life.
 
-Runing on a RPi3
+Running on a RPi3
 
 Cameras:  1 external arecont via ethernet
           2 RPi2 camera as an external rpi camera (seems to work)
 	  3 Internal RPi3 camera
 
 
-In uploadservices, camera 3 (RPi) has no info, but I clicked
+In uploadservices, camera 3 (RPi) has no Google Drive info, but I clicked
 Test service and it said it succeeded - is it using Arecont's credentials?
 
-The Arecont and RPi3 randomly went gray this moerning. I hit the photo
+The Arecont and RPi3 randomly went gray this morning. I hit the photo
 button Arecont, and both cameras came back
+
