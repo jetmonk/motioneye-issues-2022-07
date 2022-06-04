@@ -1,0 +1,19 @@
+{
+    "1": {
+        "gdrive": {
+            "authorization_key": "xxxxx",
+            "credentials": {
+                "access_token": "xxxxxx",
+                "refresh_token": "xxxxxx"
+            },
+            "location": "/Security/MotionEye/Arecont/"
+        }
+    },
+    "3": {
+        "gdrive": {
+            "authorization_key": null,
+            "credentials": null,
+            "location": "/Security/MotionEye/RPi-3/"
+        }
+    }
+}
